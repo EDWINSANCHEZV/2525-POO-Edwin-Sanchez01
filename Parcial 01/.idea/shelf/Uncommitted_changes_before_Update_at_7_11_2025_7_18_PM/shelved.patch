@@ -1,0 +1,117 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+--- a/.idea/vcs.xml	(revision 7adf5d237a3b0ecdb7315357293de952c8c45e0b)
++++ b/.idea/vcs.xml	(date 1751683349080)
+@@ -1,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 7adf5d237a3b0ecdb7315357293de952c8c45e0b)
++++ b/.idea/misc.xml	(date 1751683349076)
+@@ -1,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Black">
++    <option name="sdkName" value="Python 3.13 (PythonProject4)" />
++  </component>
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (PythonProject4)" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
+Index: Semana 07/Tarea semana 07.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Semana 07/Tarea semana 07.py b/Semana 07/Tarea semana 07.py
+--- a/Semana 07/Tarea semana 07.py	(revision 7adf5d237a3b0ecdb7315357293de952c8c45e0b)
++++ b/Semana 07/Tarea semana 07.py	(date 1752279485696)
+@@ -1,0 +1,31 @@
++#Tarea semana 07
++#Constructor y destructor
++#Clase para trabajar con autos
++#Metodo constructor, se realiza para crear un objeto
++class Vehiculo():
++    def __init__(self, marca, modelo, tipo):
++        self.marca = marca
++        self.modelo = modelo
++        self.tipo = tipo
++        print(f"Vehiculo creado: {self.marca} {self.modelo}, Tipo:{self.tipo}")
++
++#Mostrar informacion del vehiculo
++    def mostrar_informacion(self):
++        print(f"Marca: {self.marca}, Modelo: {self.modelo}, Tipo:{self.tipo}")
++
++#Metodo destructor, se realiza para eliminar un objeto
++    def __del__ (self):
++        print(f"Vehiculo eliminado: {self.marca} {self.modelo}")
++
++#Objetos creados
++auto1 = Vehiculo("Chevrolet", "Spark","Automovil" )
++auto2 = Vehiculo("Ford", "Expedition", "Camioneta")
++auto3 = Vehiculo("Hyundai", "i10", "Automovil")
++
++# Mostrar la información de los vehículos
++auto1.mostrar_informacion()
++auto2.mostrar_informacion()
++auto3.mostrar_informacion()
++
++# Eliminar uno de los objetos manualmente
++del auto2
+\ No newline at end of file
+Index: .idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+--- a/.idea/inspectionProfiles/profiles_settings.xml	(revision 7adf5d237a3b0ecdb7315357293de952c8c45e0b)
++++ b/.idea/inspectionProfiles/profiles_settings.xml	(date 1751683349080)
+@@ -1,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <settings>
++    <option name="USE_PROJECT_PROFILE" value="false" />
++    <version value="1.0" />
++  </settings>
++</component>
+\ No newline at end of file
+Index: .idea/.name
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.name b/.idea/.name
+--- a/.idea/.name	(revision 7adf5d237a3b0ecdb7315357293de952c8c45e0b)
++++ b/.idea/.name	(date 1751683349014)
+@@ -1,0 +1,1 @@
++Tarea semana 4.py
+\ No newline at end of file
+Index: .idea/inspectionProfiles/Project_Default.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/Project_Default.xml b/.idea/inspectionProfiles/Project_Default.xml
+--- a/.idea/inspectionProfiles/Project_Default.xml	(revision 7adf5d237a3b0ecdb7315357293de952c8c45e0b)
++++ b/.idea/inspectionProfiles/Project_Default.xml	(date 1751683349034)
+@@ -1,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <profile version="1.0">
++    <option name="myName" value="Project Default" />
++    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
++  </profile>
++</component>
+\ No newline at end of file
