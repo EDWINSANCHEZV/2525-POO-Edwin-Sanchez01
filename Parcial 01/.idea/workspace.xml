@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdd77273-bdb1-4738-8b55-147e1c479b07" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EDWINSANCHEZV&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EDWINSANCHEZV/2525-POO-Edwin-Sanchez01.git&quot;,
+    &quot;accountId&quot;: &quot;94fa67d8-bad6-4077-ba15-4e9d4f349ae4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2yPuX90hJblTtqQqpIHaPrPvmuT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.POO Tarea Semana 03.executor": "Run",
+    "Python.Programacion tradicional Tarea Semana 03.executor": "Run",
+    "Python.Tarea Semana 06.executor": "Run",
+    "Python.Tarea semana 07.executor": "Run",
+    "Python.Tarea semana 4.executor": "Run",
+    "Python.Tarea semana 6.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/DETPC/OneDrive/Escritorio/2525-POO-Edwin-Sanchez01/Parcial 01"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdd77273-bdb1-4738-8b55-147e1c479b07" name="Changes" comment="" />
+      <created>1749748566913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749748566913</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Tarea semana 4 clases">
+      <option name="closed" value="true" />
+      <created>1750629370562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750629370562</updated>
+    </task>
+    <task id="LOCAL-00002" summary="clase que representa un helicoptero">
+      <option name="closed" value="true" />
+      <created>1750629508404</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750629508404</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1750629650712</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750629650712</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1750629660242</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750629660242</updated>
+    </task>
+    <task id="LOCAL-00005" summary="tarea de la semana 06">
+      <option name="closed" value="true" />
+      <created>1751683171398</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751683171398</updated>
+    </task>
+    <task id="LOCAL-00006" summary="tarea de la semana 06">
+      <option name="closed" value="true" />
+      <created>1751683524048</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751683524048</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tarea de la semana 06">
+      <option name="closed" value="true" />
+      <created>1751683550202</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751683550202</updated>
+    </task>
+    <task id="LOCAL-00008" summary="tarea de la semana 06 apliaciones">
+      <option name="closed" value="true" />
+      <created>1751683610598</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1751683610598</updated>
+    </task>
+    <task id="LOCAL-00009" summary="tarea de la semana 06 apliaciones">
+      <option name="closed" value="true" />
+      <created>1751683637090</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1751683637090</updated>
+    </task>
+    <task id="LOCAL-00010" summary="tarea de la semana 06 apliaciones">
+      <option name="closed" value="true" />
+      <created>1752279508864</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1752279508864</updated>
+    </task>
+    <task id="LOCAL-00011" summary="tarea de la semana 07 apliaciones">
+      <option name="closed" value="true" />
+      <created>1752279567417</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1752279567417</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tarea semana 4 clases" />
+    <MESSAGE value="clase que representa un helicoptero" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="tarea de la semana 06" />
+    <MESSAGE value="tarea de la semana 06 apliaciones" />
+    <MESSAGE value="tarea de la semana 07 apliaciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="tarea de la semana 07 apliaciones" />
+  </component>
+</project>
