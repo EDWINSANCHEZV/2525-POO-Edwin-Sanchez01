@@ -1,0 +1,20 @@
+{
+    "001": {
+        "id": "001",
+        "nombre": "LAPIZ",
+        "cantidad": 10,
+        "precio": 25.0
+    },
+    "002": {
+        "id": "002",
+        "nombre": "CUADERNO",
+        "cantidad": 5,
+        "precio": 50.0
+    },
+    "003": {
+        "id": "003",
+        "nombre": "ESFERO",
+        "cantidad": 30,
+        "precio": 25.0
+    }
+}

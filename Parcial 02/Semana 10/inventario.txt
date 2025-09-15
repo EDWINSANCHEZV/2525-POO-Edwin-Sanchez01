@@ -1,0 +1,32 @@
+[
+    {
+        "id": "002",
+        "nombre": "Laptos",
+        "cantidad": 50,
+        "precio": 500.0
+    },
+    {
+        "id": "003",
+        "nombre": "teclados",
+        "cantidad": 100,
+        "precio": 20.0
+    },
+    {
+        "id": "004",
+        "nombre": "mouse",
+        "cantidad": 500,
+        "precio": 10.0
+    },
+    {
+        "id": "005",
+        "nombre": "protectores de laptos",
+        "cantidad": 70,
+        "precio": 25.0
+    },
+    {
+        "id": "001",
+        "nombre": "Enfriadores",
+        "cantidad": 60,
+        "precio": 20.0
+    }
+]
